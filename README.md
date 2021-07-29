@@ -24,11 +24,11 @@ _Para este proyecto se utilizo Dart y Flutter. Como editor de codigo se utilizo 
 ## Expresiones de Gratitud 🎁
 
 
----
+
 Gracias por tu visita ❤️
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # QR Scanner
 
@@ -56,5 +56,5 @@ For this project we used Dart and Flutter. Visual Studio Code_ was used as code 
 ## Expressions of Gratitude 🎁
 
 
----
+
 Thank you for your visit ❤️
