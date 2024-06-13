@@ -1,5 +1,9 @@
 # QR Scanner
 
+
+https://github.com/KarinaMastbaum/QrScanner/assets/57202657/9d58ad95-bf43-455f-9473-e5d8d4b918ff
+
+
 Este es un proyecto que hice junto al curso de Flutter: Tu guia completa de desarrollo para iOS y Android, dictado por Fernando Herrera en Udemy.
 
 La funcionalidad de la App trata de scannear códigos ya sea de la web o de una geolocalización.
